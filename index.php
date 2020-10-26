@@ -3,7 +3,7 @@
    <head>
       <meta charset="utf-8" />
       <title>ParrotAPI</title>
-      <?php require_once './assets/api/ri-api.php'; ?>
+      <?php require_once 'ri-api.php'; ?>
    </head>
    <body>
       <div>
